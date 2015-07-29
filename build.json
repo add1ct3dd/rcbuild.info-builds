@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "UnknownManufacturer/readymaderc/ZMR-250-Quadcopter---Full-Carbon-Fiber-Frame-Kit",
+    "esc": "Emax 12a SimonK Series",
+    "motor": "DYS/BE1806-2300kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "Gemfan/5x4-Propeller---2-Blade-(Set-of-4---Black)"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy 1800mAh 3s 65C"
+    ],
+    "osd": "",
+    "receiver": "FrSky/D4R-II",
+    "flightcam": "RunCam/PZ0420H",
+    "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
+    "videotx": "Fatshark 5.8Ghz 250mW",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
