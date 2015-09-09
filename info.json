@@ -3,15 +3,48 @@
     "photos": [
       {
         "imgur": {
-          "extension": "",
-          "imageId": ""
+          "extension": "jpg",
+          "imageId": "NHjio5g"
+        }
+      },
+      {
+        "imgur": {
+          "extension": "jpg",
+          "imageId": "NDbWrzC"
+        }
+      },
+      {
+        "imgur": {
+          "extension": "jpg",
+          "imageId": "wbOcFab"
+        }
+      },
+      {
+        "imgur": {
+          "extension": "jpg",
+          "imageId": "qpx0S23"
         }
       }
     ],
     "videos": [
       {
         "youtube": {
-          "videoId": ""
+          "videoId": "HLScdklnkqU"
+        }
+      },
+      {
+        "youtube": {
+          "videoId": "xQM7YGi47ZU"
+        }
+      },
+      {
+        "youtube": {
+          "videoId": "WgBYWPVZgwo"
+        }
+      },
+      {
+        "youtube": {
+          "videoId": "yjEarcYjlqg"
         }
       }
     ]
